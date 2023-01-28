@@ -1,5 +1,5 @@
 # Class_Portfolio
-Portfolio for class assignments for CS4375.004 Intro to Machine Learning
+Portfolio for class assignments for CS4375.004 Intro to Machine Learning with Professor Karen Mazidi
 
 ## Assignment 1
 Short essay about the Overview of ML
