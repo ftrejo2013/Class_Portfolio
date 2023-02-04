@@ -11,4 +11,4 @@ Short essay about the overview of ML
 ## Component 1 - Data Exploration 
 Code and PDF document of C++ assignment
 [Click here for .cpp file]()
-[Click here for PDF file]()
+[Click here for PDF file](ftrejo_CS4375.004_Portfolio Component1_Data_Exploration.pdf)
