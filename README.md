@@ -13,4 +13,4 @@ Code and PDF document of C++ assignment
 
 [Click here for .cpp file](ftrejo_comp1_dataexploration.cpp)
 
-[Click here for PDF file](ftrejo_CS4375.004_Portfolio_Component1_Data_Exploration.pdf)
+[Click here for PDF file](ftrejo_CS4375.004_PortfolioComponent1_Data_Exploration.pdf)
