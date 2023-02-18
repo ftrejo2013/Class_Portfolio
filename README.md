@@ -15,8 +15,8 @@ Code and PDF document of C++ assignment
 
 [Click here for PDF file](ftrejo_CS4375.004_PortfolioComponent1_Data_Exploration.pdf)
 
-## Component 2- Regression and Classification
-PDF file of RMD code about Linear Models
+## Component 2- Linear Models
+PDF file of RMD code about Regression and Classification
 
 [Click here for Regression PDF](Regression.pdf)
 
