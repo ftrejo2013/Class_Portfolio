@@ -21,3 +21,9 @@ PDF file of RMD code about Regression and Classification
 [Click here for Regression PDF](Regression.pdf)
 
 [Click here for Classification PDF](Classification.pdf)
+
+## Component 3- ML Algorithms from Scratch
+Code and PDF of Logistic Regressions and Naive Bayes 
+[Click here for .cpp file for Logistic Regression](LogisticRegression.cpp)
+
+[Click here for PDF file of Documentation](ftrejo_CS4375.004_PortfolioComponent3_MLScratch.pdf)
