@@ -40,7 +40,7 @@ Group project consiting of 5 parts that looks at different algorithms
 
 [Click here for PDF-Notebook 4-Dimensionality Reduction ](Notebook-4-Dimensionality-Reduction.pdf)
 
-[Click here for PDF-Narrative Document ](Searching for Similarity.pdf)
+[Click here for PDF-Narrative Document ](SearchingforSimilarity.pdf)
 
 
 
