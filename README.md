@@ -53,7 +53,7 @@ Python code in pdf about Classifying images using Deep Learning algorithms (Inco
 [Click here for PDF file of Python Code]()
 
 ## Summary
-
+During the course I received valuable knowledge that will help me in my future career. I learned about various types of algorithms, how they work, and pros and cons of using each one of them. Skills like problem solving and time management have increased thanks to the projects I did in class. The chance to work with data sets that we were personally able to choose gave me a chance to see how real world data works and what to expect from it when it comes to real world applications. It was also a way to learn about data that I'm passionate about like video games, sports, and health. I plan to keep learning about machine learning and AI since it is a rapidly growing field with a lot of changes. Especially since we have AI’s like ChatGPT that are gaining popularity and are very resourceful. I hope to use the skills and lessons I've acquired in class and apply them to the Automotive industry that I currently work for and help develop and improve self driving cars. 
 
 
 
