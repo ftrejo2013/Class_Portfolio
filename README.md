@@ -57,8 +57,8 @@ PDF File of R code of a couple of Boosting algorithms
 
 [Click here for PDF file of R Code](ensemblemethods.pdf)
 
-## Skills Aquiered from Class
-PDF of list of skill aquiered while taking the course
+## Skills
+PDF File that has a list of skills aquiered from class
 
 [Click here for PDF file](Skills.pdf)
 
