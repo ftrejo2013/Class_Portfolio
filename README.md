@@ -23,7 +23,7 @@ PDF file of R code about Regression and Classification
 [Click here for Classification PDF of R Code](Classification.pdf)
 
 ## Component 3- C++ Algorithms from Scratch
-C++ Code and PDF of Logistic Regressions and Naive Bayes(Incomplete)
+C++ Code and PDF of Logistic Regressions and Naive Bayes (Incomplete)
 
 [Click here for .cpp file of C++ Code for Logistic Regression](LogisticRegression.cpp)
 
@@ -47,7 +47,12 @@ Python code in pdf about ML algorithms including Logistic Regression, Decesion T
 
 [Click here for PDF file of Python Code](sklearnml.pdf)
 
+## Component 6- Image Classification with DL
+Python code in pdf about Classifying images using Deep Learning algorithms (Incomplete)
 
+[Click here for PDF file of Python Code]()
+
+## Summary
 
 
 
